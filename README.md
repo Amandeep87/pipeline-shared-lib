@@ -4,3 +4,4 @@ vars folder contains the global functions that you can use in your script.
 resources folder contains the non groovy code such as json or xml or txt files.
 Inside vars if you find matching text file then that contains the documentation which appears in the global variable reference page.
 txt file can contain markdown or html or just plain text.
+Swissknife.groovy has the function called printName.
